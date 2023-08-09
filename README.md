@@ -1,7 +1,7 @@
 <h1>Java__Login_Y_MYSQL</h1>
 <h1 align="center"> Java Login con MYSQ </h1>
 <p>Java utilizando las 3 capas. Interfaz, Logica y Persistencia, conectado a una base de datos con MySql</p>
-  <p1>✔️ Interfaz gráfica con estilo Material Design.</p1>
+  <div>✔️ Interfaz gráfica con estilo Material Design.</div>
   <p1>✔️ Efectos visuales básicos como el desplazamiento del mouse.</p1>
   <p1>✔️ Barra de encabezado personalizada e icono de cierre.</p1>
   <p1>✔️ Logica - Usuario y permisos </p1> 
