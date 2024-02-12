@@ -1,4 +1,4 @@
-<h1>Java__Login_Y_MYSQL</h1>
+<h1>Market-JavaSE</h1>
 <h1 align="center"> Java Login con MYSQ </h1>
 <p>Java utilizando las 3 capas. Interfaz, Logica y Persistencia, conectado a una base de datos con MySql</p>
   <div>✔️ Interfaz gráfica con estilo Material Design.</div>
